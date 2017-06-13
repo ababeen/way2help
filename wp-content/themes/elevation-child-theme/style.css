@@ -1,0 +1,21 @@
+/*
+Theme Name: Elevation Child Theme
+Theme URI: http://elevation.jeweltheme.com
+Author: Jewel Theme
+Author URI: http://jeweltheme.com
+Description: ELEVATION is Multipurpose WordPress Charity Template by Jewel Theme
+Version: 1.0.0
+Tags: blue, green, orange, one-page, single page, multipurpose
+Template: elevation
+Text Domain: elevation
+Domain Path: /languages/
+
+
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+@import url('../elevation/assets/css/theme.css'); 
+

@@ -1,0 +1,49 @@
+[22-May-2017 17:47:08 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/moktarul/public_html/way2help/wp-includes/load.php on line 316
+[22-May-2017 17:50:20 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[22-May-2017 17:55:37 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[22-May-2017 17:56:34 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[22-May-2017 18:11:00 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[22-May-2017 18:12:01 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[22-May-2017 18:13:01 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[22-May-2017 18:14:02 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 01:28:34 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 01:28:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 06:34:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 142303 bytes) in /home/moktarul/public_html/way2help/wp-includes/functions.php on line 435
+[23-May-2017 07:10:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 237561 bytes) in /home/moktarul/public_html/way2help/wp-includes/functions.php on line 435
+[23-May-2017 16:00:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 90 bytes) in /home/moktarul/public_html/way2help/wp-includes/SimplePie/Parser.php on line 323
+[23-May-2017 16:01:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 240885 bytes) in /home/moktarul/public_html/way2help/wp-includes/wp-db.php on line 1253
+[23-May-2017 16:07:00 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:09:02 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:11:07 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:36:02 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:38:04 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:40:07 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:42:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:44:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 16:46:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 18:09:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 18:09:56 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 18:09:57 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[23-May-2017 18:09:57 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 619
+[24-May-2017 06:57:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 138736 bytes) in /home/moktarul/public_html/way2help/wp-includes/functions.php on line 435
+[24-May-2017 06:57:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 262144 bytes) in /home/moktarul/public_html/way2help/wp-includes/SimplePie/Parser.php on line 154
+[24-May-2017 12:37:30 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:37:32 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:39:31 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:39:32 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:41:31 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:41:31 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:42:16 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 12:42:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 646
+[24-May-2017 17:14:10 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:14:14 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:14:20 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:15:15 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:16:10 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:17:15 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:18:12 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:18:45 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:18:45 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:18:47 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:20:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615
+[24-May-2017 17:22:11 UTC] PHP Fatal error:  Can't use function return value in write context in /home/moktarul/public_html/way2help/wp-content/themes/elevation/inc/template-tags.php on line 615

@@ -1,0 +1,39 @@
+
+---Downloaded files---
+The import files for: Homepage 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://way2help.com
+Data file = /home/moktarul/public_html/way2help/wp-content/uploads/2017/05/demo-content-import-file_2017-05-23__01-13-37.xml
+Widget file = /home/moktarul/public_html/way2help/wp-content/uploads/2017/05/demo-widgets-import-file_2017-05-23__01-13-37.json
+Customizer file = /home/moktarul/public_html/way2help/wp-content/uploads/2017/05/demo-customizer-import-file_2017-05-23__01-13-37.dat
+Redux files:
+elevation_options -> /home/moktarul/public_html/way2help/wp-content/uploads/2017/05/demo-redux-import-file_0-2017-05-23__01-13-37.json 
+
+
+---pt-ocdi/before_widgets_import---
+Add your code here that will be executed before the widgets get imported!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+Footer Sidebar : 
+
+Elevation: About Us - Elevation - Widget already exists
+Recent Posts - No Title - Widget already exists
+MailChimp Sign-Up Form - Newsletter - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: elevation_options finished successfully!
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
